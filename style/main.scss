@@ -1,5 +1,11 @@
+$bgcolour: #fff;
+
+
 .gaming-img {
     height: 100px;
-    width: auto;
-    
+    width: auto;  
+}
+
+body{
+    background-color: $bgcolour;
 }
